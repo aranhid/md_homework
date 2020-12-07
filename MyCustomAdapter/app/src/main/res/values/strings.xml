@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCustomAdapter</string>
+    <string name="sort">Сортировка:</string>
+    <string name="sort_by_name">По имени</string>
+    <string name="sort_by_phone">По телефону</string>
+    <string name="sort_by_gender">По полу</string>
+</resources>

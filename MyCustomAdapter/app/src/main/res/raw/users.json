@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Вася Пупкин",
+    "phoneNumber": "88005553535",
+    "gender": "MAN"
+  },
+  {
+    "name": "Василий Дубкин",
+    "phoneNumber": "89005553535",
+    "gender": "MAN"
+  },
+  {
+    "name": "Alien",
+    "phoneNumber": "99999999",
+    "gender": "UNKNOWN"
+  },
+  {
+    "name": "Василиса Иванова",
+    "phoneNumber": "89008954328",
+    "gender": "WOMAN"
+  },
+  {
+    "name": "Ирина Петрова",
+    "phoneNumber": "89999999999",
+    "gender": "WOMAN"
+  },
+  {
+    "name": "Пётр Единственный",
+    "phoneNumber": "890098632435",
+    "gender": "MAN"
+  },
+  {
+    "name": "Просто Человек",
+    "phoneNumber": "825358489635",
+    "gender": "UNKNOWN"
+  },
+  {
+    "name": "Конь в Пальто",
+    "phoneNumber": "899568236548",
+    "gender": "UNKNOWN"
+  },
+  {
+    "name": "Евгений Зыбков",
+    "phoneNumber": "895332698225",
+    "gender": "MAN"
+  },
+  {
+    "name": "Евгения Зыбкова",
+    "phoneNumber": "896523654789",
+    "gender": "WOMAN"
+  }
+]

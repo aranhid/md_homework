@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Film Json</string>
+    <string name="end_of_filmsList">Конец списка фильмов!</string>
+    <string name="discard">Сбросить</string>
+    <string name="button_text">Далее</string>
+    <string name="year">Год: %s</string>
+    <string name="rating">Рейтинг: %.1f</string>
+</resources>

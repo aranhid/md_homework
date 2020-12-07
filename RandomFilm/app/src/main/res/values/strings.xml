@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Random Film</string>
+    <string name="filmsView_text">Какой фильм посмотреть?</string>
+    <string name="end_of_filmsList">Фильмов больше нет!</string>
+    <string name="discard">Сбросить</string>
+    <string name="button_text">Узнать!</string>
+    <string-array name="films_list">
+        <item>Drive</item>
+        <item>Blade Runner 2049</item>
+        <item>The Shawshank Redemption</item>
+        <item>Rocky</item>
+    </string-array>
+</resources>
