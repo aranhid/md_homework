@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="notes_count">Всего заметок: %d</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="title">Заголовок заметки</string>
+    <string name="text">Текст заметки</string>
+</resources>
