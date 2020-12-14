@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Color Tiles</string>
+    <string name="win">You won!</string>
+</resources>
