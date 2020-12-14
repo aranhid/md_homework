@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="more">Ваше число больше, чем %d?</string>
+    <string name="is_this_number">Ваше число %d?</string>
+    <string name="number">Ваше число - %d</string>
+    <string name="text">Введите диапазон, в котором загадано ваше число:</string>
+    <string name="further">Далее</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="from">От</string>
+    <string name="to">До</string>
+</resources>
