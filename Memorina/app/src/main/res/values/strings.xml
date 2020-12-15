@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Memorina</string>
+    <string name="win">You win!</string>
+</resources>
